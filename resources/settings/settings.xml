@@ -1,0 +1,5 @@
+<settings>
+    <setting propertyKey="@Properties.FTP" title="@Strings.FTP" prompt="@Strings.FTPPrompt">
+        <settingConfig type="numeric" errorMessage="@Strings.FTPError" />
+    </setting>
+</settings>

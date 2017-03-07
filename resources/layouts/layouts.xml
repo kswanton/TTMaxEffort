@@ -1,0 +1,20 @@
+<layouts>
+    <!-- A generic, centered layout. -->
+    <layout id="MainLayout">
+        <drawable class="Background" />
+    </layout>
+
+    <!-- Layouts used for the for the four quadrants. -->
+    <layout id="TopLeftLayout">
+        <drawable class="Background" />
+    </layout>
+    <layout id="TopRightLayout">
+        <drawable class="Background" />
+    </layout>
+    <layout id="BottomLeftLayout">
+        <drawable class="Background" />
+    </layout>
+    <layout id="BottomRightLayout">
+        <drawable class="Background" />
+    </layout>
+</layouts>

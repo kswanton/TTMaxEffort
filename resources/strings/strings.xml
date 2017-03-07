@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">TTMaxEffort</string>
+    <string id="label">My Value</string>
+    <string id="FTP">FTP</string>
+    <string id="FTPError">Invalid FTP</string>
+    <string id="FTPPrompt">Enter your current FTP</string>
+</strings>
